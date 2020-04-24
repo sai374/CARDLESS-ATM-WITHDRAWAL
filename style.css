@@ -1,0 +1,33 @@
+body{
+  margin-left: 0px;
+  margin-right: 0px;
+  background: url(https://images.pexels.com/photos/34090/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+  background-size: 100%100%;
+    margin-bottom: 20%;
+background-color: lightblue;
+text-align: center;
+}
+.x{
+  text-align: center;
+  color: black;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 40px;
+}
+.y{
+  background-color: black;
+  background-size: 100% 100%;
+  margin:0;
+  padding: 0;
+  text-align: center;
+  font-style: normal;
+  font-weight:bold;
+  font-size: 29px;
+  color: white;
+  opacity: 0.5;
+}
+.z{
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+}
